@@ -4,7 +4,7 @@
 
   <p><b>Gym Maniac</b> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
 
-👉 Live Demo: <a href='https://gym-maniac-react-vattsal.vercel.app/'>Gymate Demo</a>
+👉 Live Demo: <a href='https://gym-maniac-react-vattsal.vercel.app/'>Gym Maniac Demo</a>
 
 <h3>Build with:</h3>
 
